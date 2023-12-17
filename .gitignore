@@ -1,4 +1,9 @@
-# Byte-compiled / optimized / DLL files
+# Pyinstaller files
+*.spec
+dist/*
+build/*
+
+# # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
